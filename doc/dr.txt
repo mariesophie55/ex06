@@ -1,0 +1,16 @@
+ex06
+
+10/10
+
+déplacer main()
+->
+ex05_var.dart
+
+renommer ex05_var.dart
+->
+contexte.dart
+
+renommer exercise5.dart
+->
+fonctions.dart
+
